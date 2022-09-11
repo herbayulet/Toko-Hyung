@@ -24,11 +24,6 @@ const Footer = () => {
               <Twitter />
             </a>
           </div>
-          <div className={socialStyle + ` bg-zinc-800`}>
-            <a target="_blank" rel="noreferrer" href="https://github.com/herbayulet">
-              <GitHub />
-            </a>
-          </div>
         </div>
       </div>
 

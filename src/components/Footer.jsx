@@ -29,7 +29,6 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
-
             <div className="flex flex-col flex-1 p-2">
                 <div className="flex m-3">
                     <LocationOnOutlined className="text-[#8a4af3]" />
